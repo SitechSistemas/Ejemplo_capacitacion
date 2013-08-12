@@ -2,5 +2,6 @@ Hola a todos
 
 Esta es la clase t520
 
+prueba 2
 
-Prueba de Sincronización // SitechSistemas
+Prueba de Sincronizaciï¿½n // SitechSistemas
